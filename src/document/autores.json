@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Taboo",
+        "cantante": "Don Omar",
+        "id":1
+    },
+    {
+        "nombre": "Yonaguni",
+        "cantante":"Bad Bunny",
+        "id": 2
+
+    },
+    {
+        "nombre":"Recess",
+        "cantante":"Skrillex",
+        "id":3
+
+    },
+    {
+        "nombre":"Aprecia Lo Que Tienes",
+        "cantante":"Porta",
+        "id":4
+    },
+    {
+        "nombre":"nuestro amor",
+        "cantante":"eddy herrera",
+        "id":5
+        
+    }
+]

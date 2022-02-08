@@ -1,0 +1,28 @@
+[
+    {
+        "categoria":"regueton",
+        "Album":" meet the orphans",
+        "id":1
+
+    },
+    {
+        "categoria":"regueton",
+        "Album":"yonaguni",
+        "id":2
+    },
+    {
+        "categoria":"electronica",
+        "Album":"recess",
+        "id":3
+    },
+    {
+        "categoria":"Rap",
+        "Album":"it",
+        "id":4
+    },
+    {
+        "categoria":"merengue",
+        "Album":"Mediamuv",
+        "id":5
+    }
+]
